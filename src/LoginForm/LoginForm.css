@@ -2,8 +2,8 @@
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    gap: 20px; /* المسافة بين المربعين */
-    flex-wrap: wrap; /* للسماح بتكديس المربعات على الأجهزة الصغيرة */
+    gap: 20px; 
+    flex-wrap: wrap; 
 }
 
 .wrapper {
