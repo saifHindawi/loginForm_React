@@ -2,7 +2,7 @@
   "name": "login-form",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://saifHindawi.github.io/loginForm_React.git",
+  "homepage": "https://saifHindawi.github.io/loginForm_React",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
